@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository. I am learning.
+My name is Donte and I am a web technologies enthusiast.
